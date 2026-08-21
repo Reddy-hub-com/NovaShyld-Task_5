@@ -1,0 +1,28 @@
+NovaShyld Task 5 — Exploitation Evidence
+
+Finding:
+vsFTPd 2.3.4 Backdoor
+
+CVE:
+CVE-2011-2523
+
+Target:
+192.168.195.133
+
+Validation Method:
+Metasploit Framework
+
+Evidence Summary:
+The vulnerable vsFTPd 2.3.4 service identified during reconnaissance was
+validated using the corresponding Metasploit module in the authorized
+isolated laboratory environment.
+
+Result:
+Successful exploitation established a Meterpreter session.
+
+Security Impact:
+The successful exploitation demonstrated unauthorized remote access to
+the target and enabled subsequent privilege verification.
+
+Assessment Scope:
+Testing was limited to the authorized Metasploitable2 laboratory target.
