@@ -1,0 +1,15 @@
+NovaShyld Task 5 — Post-Exploitation Evidence
+
+Commands:
+pwd
+ls
+
+Purpose:
+Validate the current working directory and demonstrate filesystem
+visibility available through the established session.
+
+Evidence Screenshot:
+02-Screenshots/11-Pwd-Ls-Filesystem.png
+
+Scope:
+Filesystem validation was limited to the authorized laboratory target.

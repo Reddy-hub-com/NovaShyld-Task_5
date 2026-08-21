@@ -1,0 +1,14 @@
+NovaShyld Task 5 — Post-Exploitation Evidence
+
+Command:
+sysinfo
+
+Purpose:
+Collect basic system information from the established Meterpreter
+session.
+
+Evidence:
+The system information output was captured during the assessment.
+
+Evidence Screenshot:
+02-Screenshots/10-Sysinfo.png

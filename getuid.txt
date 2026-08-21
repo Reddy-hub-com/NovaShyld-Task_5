@@ -1,0 +1,18 @@
+NovaShyld Task 5 — Post-Exploitation Evidence
+
+Command:
+getuid
+
+Purpose:
+Verify the account/privilege level associated with the established
+Meterpreter session.
+
+Result:
+Server username: root
+
+Interpretation:
+The command confirmed that the successful exploitation resulted in
+root-level privileges on the authorized Metasploitable2 target.
+
+Evidence:
+See 02-Screenshots/09-Getuid-Root.png

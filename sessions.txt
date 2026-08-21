@@ -1,0 +1,14 @@
+NovaShyld Task 5 — Post-Exploitation Evidence
+
+Command:
+sessions
+
+Purpose:
+Verify the active Metasploit session established during controlled
+exploitation.
+
+Result:
+An active Meterpreter session was demonstrated.
+
+Evidence Screenshot:
+02-Screenshots/12-Metasploit-Sessions.png
